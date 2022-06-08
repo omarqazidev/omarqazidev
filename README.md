@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to Simplify Data Sharing Between Components](https://dev.to/omarqazidev/trying-to-simplify-data-sharing-between-components-5bke)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
