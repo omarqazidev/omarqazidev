@@ -3,7 +3,7 @@
 
 <h3 align="left">👋 Hi I'm Omar. I am a backend engineer by profession and a technology enthusiast by passion.</h3>
 
-- 🔭 I’m currently working on **payment service integrations** at <a href="https://linkedin.com/company/tintash" target="_blank">**tintash**</a> for <a href="https://linkedin.com/company/swvl" target="_blank">**swvl**</a>
+- 🔭 I’m currently working on **payment service integrations** with **node.js**
 
 - 🌱 I’m currently learning **kubernetes**
 
