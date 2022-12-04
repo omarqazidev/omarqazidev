@@ -3,9 +3,9 @@
 
 <h3 align="left">👋 Hi I'm Omar. I am a backend engineer by profession and a technology enthusiast by passion.</h3>
 
-- 🔭 I’m currently working on **payment service integrations** with **node.js**
+- 🔭 I’m currently working on designing and building an **authentication and authorization service** with **Go**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **to be a good backend developer**
 
 - 👨‍💻 I’m looking to collaborate on **open source projects**, especially interetsted in **developer tools**
 
