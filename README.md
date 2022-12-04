@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **payment service integrations** with **node.js**
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 I’m looking to collaborate on **open source projects**, especially interetsted in **developer tools**
 
