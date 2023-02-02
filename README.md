@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on designing and building an **authentication and authorization service** with **Go**
 
-- 🌱 I’m currently learning **to be a good backend developer**
+- 🌱 I’m currently learning **AWS Services**
 
 - 👨‍💻 I’m looking to collaborate on **open source projects**, especially interetsted in **developer tools**
 
