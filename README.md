@@ -4,6 +4,8 @@ jk, I'd love to. 😊
 
 ---
 
-email me @ omarqazidev@gmail.com
+my website @ [omarqazi.net](https://omarqazi.net)
 
 linkedin @ [omarqazidev](https://www.linkedin.com/in/omarqazidev/)
+
+email me @ omarqazidev@gmail.com
