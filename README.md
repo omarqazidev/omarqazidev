@@ -83,4 +83,6 @@ A C#/SQL-based suite including data fabrication, ETL pipeline, and OLAP query to
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-> _“I am a 10x developer. It takes 10 developers to come in and correct all the mistakes and production outages I cause.”_
+<br/>
+
+> _“I am a 10x developer. It takes 10 developers to come in and correct all the mistakes and production outages I cause. 😄”_
