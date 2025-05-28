@@ -4,7 +4,7 @@
 
 I'm a Senior Software Engineer with 4 years of industry experience skilled in full-stack development with expertise in `Node.js`, `React`, `JavaScript`, `TypeScript`, `Go` and `AWS`.
 
-Currently building the operating system for corporate data @[BlueMeg](https://github.com/BlueMeg). Previously built scalable backend solutions for a high-traffic e-commerce platform @[PLT](https://github.com/PrettyLittleThing). Have built and enhanced payment, logistics, and authentication systems.
+Currently building the operating system for corporate data. Previously built scalable backend solutions for a high-traffic e-commerce platform. Have built and enhanced payment, logistics, and authentication systems.
 
 [![omarqazi.dev](https://img.shields.io/badge/website-omarqazi.dev-darkgreen?style=for-the-badge)](https://omarqazi.dev)
 [![@omarqazidev on LinedIn](https://img.shields.io/badge/LinkedIn-omarqazidev-blue?style=for-the-badge&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/omarqazidev/)
