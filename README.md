@@ -6,8 +6,8 @@ I'm a Senior Software Engineer with 4 years of industry experience skilled in fu
 
 Currently building the operating system for corporate data. Previously built scalable backend solutions for a high-traffic e-commerce platform. Have built and enhanced payment, logistics, and authentication systems.
 
-[![omarqazi.dev](https://img.shields.io/badge/website-omarqazi.dev-darkgreen?style=for-the-badge)](https://omarqazi.dev)
-[![@omarqazidev on LinedIn](https://img.shields.io/badge/LinkedIn-omarqazidev-blue?style=for-the-badge&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/omarqazidev/)
+[![omarqazi.dev](https://img.shields.io/badge/website-omarqazi.dev-2b5162?style=for-the-badge)](https://omarqazi.dev)
+[![@omarqazidev on LinedIn](https://img.shields.io/badge/LinkedIn-omarqazidev-0e76a8?style=for-the-badge&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/omarqazidev/)
 [![@omarqazidev on Twitter](https://img.shields.io/badge/Twitter/X-omarqazidev-black?style=for-the-badge)](https://www.x.com/omarqazidev)
 <br clear="left" />
 
