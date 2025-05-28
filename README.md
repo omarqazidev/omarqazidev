@@ -12,11 +12,6 @@ Experienced in backend and frontend technologies, distributed systems, cloud inf
 
 <br clear="left" />
 
-
-
-
-
-
 ## 📦 Projects
 
 ### [🔌 Thread Tasks](https://www.npmjs.com/package/thread-tasks)
@@ -131,4 +126,7 @@ A C#/SQL-based suite including data fabrication, ETL pipeline, and OLAP query to
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+
+> _“I am a 10x developer. It takes 10 developers to come in and correct all the mistakes and production outages I cause.”_
 
