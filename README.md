@@ -76,8 +76,8 @@ A C#/SQL-based suite including data fabrication, ETL pipeline, and OLAP query to
 ![Chai](https://img.shields.io/badge/chai-%23A30701.svg?style=for-the-badge&logo=chai&logoColor=white)
 
 **☁️ Cloud / DevOps / CI-CD**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+<!--- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) --->
+![AWS](https://dub.sh/V6t2oYQ)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
