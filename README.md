@@ -35,7 +35,7 @@ A RESTful API for accessing and filtering Pokemon data.
 Includes authentication middleware, pagination, and query filtering using `MongoDB` and `TypeScript`.
 
 ### [🏗️ Data Warehouse Tools (DWT)](https://github.com/omarqazidev/data-warehouse-tools)
-A C#/SQL-based suite including data fabrication, ETL pipeline, and OLAP query tools.
+A `C#`/`SQL`-based suite including data fabrication, ETL pipeline, and OLAP query tools.
 
 
 ## 🛠️ Core Technologies
